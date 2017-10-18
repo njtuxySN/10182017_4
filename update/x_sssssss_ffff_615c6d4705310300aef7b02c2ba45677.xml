@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_sssssss_ffff">
+    <x_sssssss_ffff action="INSERT_OR_UPDATE">
+        <name>sssssss</name>
+        <sys_class_name>x_sssssss_ffff</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-18 17:38:53</sys_created_on>
+        <sys_id>615c6d4705310300aef7b02c2ba45677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sssssss</sys_name>
+        <sys_package display_value="sssssss" source="x_sssssss">431c654705310300aef7b02c2ba456cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sssssss">431c654705310300aef7b02c2ba456cb</sys_scope>
+        <sys_update_name>x_sssssss_ffff_615c6d4705310300aef7b02c2ba45677</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-18 17:38:53</sys_updated_on>
+    </x_sssssss_ffff>
+</record_update>
